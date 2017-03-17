@@ -40,6 +40,19 @@ Từ không biết gì đã có thể control và sử dụng, nay share lại �
 * [CanvasEngine]
 * ...
 
+### Nội dung chia sẻ về Canvas?
+
+* Vẽ các hình học cơ bản (Line, Rectangle, Circle, Triangle.....)
+* Vẽ các hình học phức tạp hơn (Curves, Path, Rounded Corner, Custom shape,...)
+* Fill Styles
+* Vẽ hình ảnh (từ 1 hình ảnh có sẵn ta load vào Canvas).
+* Vẽ Text
+* Các hiệu hứng Transformation (Ví dụ như: Scale, Rotate, Mirror,...)
+* Animation
+* Sự kiện của chuột (Mouse Detected).
+
+* ... Tiếp tục cập nhật.
+
 ### Cần xem kết quả?
 * Demo thì nhiều có thể search Google.
 * Sản phẩm của mình? - Đợi App lên Production đã nhé!
