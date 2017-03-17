@@ -21,7 +21,7 @@ Từ không biết gì đã có thể control và sử dụng, nay share lại �
 * Các hình ảnh phức tạp sử dụng Canvas.
 
 ### Tôi cần gì để học?
-* Bạn cần có kiến thức cơ bản: HTML và CSS.
+* Bạn cần có kiến thức cơ bản: HTML và CSS, Javascript ( cực kỳ cơ bản luôn nhé - đừng đợi việc đọc lý thuyết quá nhiều mà làm ngay và luôn).
 * Canvas chính là nằm trong HTML5, nhưng phân khúc này của nó rất rộng, ngày nay chúng ta có thể code thoải mái trên các trình duyệt hiện đại hoặc Mobile vì Phần cứng đã nâng cấp khá mạnh mẽ và hỗ trợ tốt Canvas.
 
 ### Tôi học trong bao lâu?
