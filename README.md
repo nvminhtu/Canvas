@@ -53,6 +53,15 @@ Từ không biết gì đã có thể control và sử dụng, nay share lại �
 
 * ... Tiếp tục cập nhật.
 
+### Best Practices
+
+* Responsive Canvas
+* Cấu trúc Canvas để tái sử dụng?
+* Phân cấp Canvas để chia nhỏ ứng dụng.
+* Canvas Performance và Optimize
+* Làm việc với kích cỡ của từng Canvas trong Repsonsive.
+* Tọa độ và cách làm tốt nhất để vẽ Canvas hiệu quả.
+
 ### Cần xem kết quả?
 * Demo thì nhiều có thể search Google.
 * Sản phẩm của mình? - Đợi App lên Production đã nhé!
